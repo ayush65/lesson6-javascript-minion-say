@@ -1,0 +1,59 @@
+textarea {
+          width: 50%;
+          height: 5vh;
+          display: block;
+          margin: 1rem;
+          padding: 1rem;
+          margin-left: 290px;
+ }
+
+#output {
+          border: 1px solid black;
+          height: 5vh;
+          width: 50%;
+          margin: 1rem;
+          padding: 1rem;
+          margin-left: 290px;
+ }
+
+ #btn-translate {
+           margin-left: 650px;
+           max-width: 300px;
+           margin-bottom: 10px;
+ }
+
+ .heading {
+           margin-left: 590px;
+ }
+
+ body {
+           background-color:  #FFD55E;
+           align-items: center;
+           background-image: url(image.png);
+           background-repeat: no-repeat;
+           margin-top: 130px;
+ }
+
+ .hero1 {
+           max-width: 500px;
+           height: 40vh;
+           margin-left: 460px;
+ }
+ 
+ .link {
+          box-sizing: border-box;
+          text-decoration: none;
+          padding: 0.5rem 1rem;
+         
+ }
+      
+.link-primary {
+          background-color: var(--primary-color);
+          border-radius: 0.5rem;
+          color: black;
+          display: block;
+          max-width: 140px;
+          margin: 1rem 1rem 1rem 0rem;
+      }
+      
+
